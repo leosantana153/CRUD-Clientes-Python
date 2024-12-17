@@ -39,7 +39,7 @@ VALUES
 
 
     
-Configuração do Projeto
+## Configuração do Projeto
 No arquivo Python, configure os dados de conexão com o MySQL:
 
 
@@ -56,6 +56,6 @@ No terminal, execute o arquivo principal:
 python crud_clientes.py
 Navegue pelo menu para adicionar, listar, atualizar ou excluir clientes.
 
-Observações
+## Observações
 Antes de postar o projeto em produção, implemente validações mais robustas no código.
 Certifique-se de que os dados de conexão ao banco de dados estão protegidos em projetos reais.
